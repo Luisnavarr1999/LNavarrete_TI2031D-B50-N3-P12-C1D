@@ -1,0 +1,170 @@
+body {
+    background: url('Imagenes/fondopag.jpg') no-repeat center center fixed;
+    background-size: cover;
+  }
+
+.sub{
+    text-align: center;
+}
+
+.Titulo{  
+    text-align: center;
+    background-color: yellow;
+    color: brown;                    
+    border: 5px  brown dotted;
+    border-radius: 5px;                
+}
+
+.intro{
+    background-color: yellow;                     
+    color: brown;
+    text-align: center;
+}
+
+.intro2{
+    text-align: center;
+    background-color: yellow;
+    color: brown;                    
+    border: 5px  brown dotted;
+    border-radius: 5px;                
+}
+
+.intro3{
+    text-align: center;
+    background-color: yellow;
+    color: brown;                    
+    border: 5px  brown dotted;
+    border-radius: 5px;                
+
+}
+
+.Comida{
+    margin: auto;
+    display: block;
+    border: 20px brown solid;
+}
+
+.intro4{
+    text-align: center;
+    background-color: yellow;
+    color: brown;                    
+    border: 5px  brown dotted;
+    border-radius: 5px;                
+
+}
+
+.Titulo2{
+    background-color: yellow;
+    text-align: center;
+    color: brown;
+    border: 10px brown solid;
+    border-radius: 10px 
+}
+
+.tipos{
+    background-color: yellow;
+    text-align: center;
+    color: brown;
+    border: 10px brown solid;
+    border-radius: 10px
+}
+
+.tipos1{
+    background-color: yellow;
+    text-align: center;
+    color: brown;
+    border: 10px brown solid;
+    border-radius: 10px
+}
+
+.tipos2{
+    background-color: yellow;
+    text-align: center;
+    color: brown;
+    border: 10px brown solid;
+    border-radius: 10px
+}
+.tipos3{
+    background-color: yellow;
+    text-align: center;
+    color: brown;
+    border: 10px brown solid;
+    border-radius: 10px
+}
+
+
+.mieles{
+    background-color: yellow;                     
+    color: brown;
+    text-align: center;
+}
+
+.mieles1{
+    background-color: yellow;                     
+    color: brown;
+    text-align: center;
+}
+
+.mieles2{
+    background-color: yellow;                     
+    color: brown;
+    text-align: center;
+}
+
+.mieles3{
+    background-color: yellow;                     
+    color: brown;
+    text-align: center;
+}
+.mieles4{
+    background-color: yellow;                     
+    color: brown;
+    text-align: center;
+}
+
+
+.Comida2{
+    margin: auto;
+    display: block;
+    border: 20px brown solid;
+}
+
+.Comida3{
+    margin: auto;
+    display: block;
+    border: 20px brown solid;
+}
+
+.Comida4{
+    margin: auto;
+    display: block;
+    border: 20px brown solid;
+}
+.Comida5{
+    margin: auto;
+    display: block;
+    border: 20px brown solid;
+}
+
+.Futuro{
+    background-color: yellow;
+    text-align: center;
+    color: brown;
+    border: 10px brown solid;
+    border-radius: 10px
+}
+
+.table{
+    background-color: yellow;  
+    margin: auto;
+    display: block;
+    border: 20px brown solid;
+}
+
+.contac{
+    background-color: yellow;
+    text-align: center;
+    color: brown;
+    border: 10px brown solid;
+    border-radius: 10px
+}
